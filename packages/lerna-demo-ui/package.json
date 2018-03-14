@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDpendencies": {
-    "computer": "1.0.0",
+  "devDependencies": {
+    "lerna-demo-computer": "1.0.0",
     "jest": "21.2.1"
   },
   "keywords": [],
