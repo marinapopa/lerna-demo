@@ -1,3 +1,3 @@
-function compute (a, b) { return a - b }
+function compute (a, b) { return a + b }
 
 module.exports = compute;
